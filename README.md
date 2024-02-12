@@ -1,2 +1,2 @@
 # odin-recipes
-This is a 
+This is a html project
